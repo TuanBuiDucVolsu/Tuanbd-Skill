@@ -1,4 +1,4 @@
----
+<img width="782" height="321" alt="image" src="https://github.com/user-attachments/assets/d16e9d4c-2657-46f9-bba8-d0fea77700dd" />---
 name: strategic-brief
 description: >
   Dùng ngay khi CEO hoặc bất kỳ ai cần biến ý tưởng thô, mục tiêu mơ hồ,
@@ -9,6 +9,9 @@ description: >
   Luôn dùng skill này thay vì tự format — output chuẩn giúp prd-generator
   hoạt động đúng ở bước tiếp theo.
 ---
+
+<img width="782" height="321" alt="image" src="https://github.com/user-attachments/assets/49bfc671-2c3b-4eaa-a343-932f7c19bae6" />
+
 
 # Strategic Brief Skill
 
